@@ -1250,8 +1250,8 @@ function FindMe() {
     {
       label: "Company",
       description:
-        "Americanbusinessdeveloper — software, tools & services for businesses.",
-      href: "https://americanbusinessdeveloper.eu.org",
+        "American Business Developer — digital systems, websites, AI and automation built for modern businesses.",
+      href: "https://americanbusinessdeveloper.surge.sh",
       icon: <ExternalIcon />,
     },
     {
